@@ -13,4 +13,4 @@
 ## 💫 Deploy
 
 Deployed using [Surge](https://surge.sh/)
-Published to (daffy-heat.surge.sh)
+Published to [daffy-heat.surge.sh](http://daffy-heat.surge.sh/)
